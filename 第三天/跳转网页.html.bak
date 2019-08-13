@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <a href="邮箱链接.html#666">点我</a>       <!--跳转页面链接书签-->
+  <a href="http://www.baidu.com " target="_top">百度</a>  <!--跳转百度界面,在本界面打开-->
+  <a href="/自做网页/img/timg.jpg">我是链接</a><!--下载链接,路径名和文件名-->
+  <a href="javascript:window.close()">关闭窗口</a><!--点击关闭窗口-->
+  <a href="#">空标签</a><!--空标签,可以返回页面顶部-->
+  <img src="/自做网页/img/timg.jpg"width="300"height="200"alt="我平时">图片
+ </body>
+</html>

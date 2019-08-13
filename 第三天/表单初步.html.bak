@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>表单初步form</title>
+ </head>
+ <body>
+  <form name="666" method="post" action="reg.php">
+  <table width="300" border="0" align="center">
+  <caption><h2>会员注册<h2></caption>
+  <tr>
+		<td >用户名:</td>
+	    <td><input type="text" name="888" size="20" maxlength="30"/></td>
+  </tr>
+  <tr>
+		<td >密码:</td>
+		<td><input type="password" name="777" size="20" maxlength="30"/></td>
+  </tr>
+  <tr>
+		<td colspan="2" align="center">
+		<input type="submit" value="提交" name="sub"/>
+		<input type="reset" value="重写" name="sum"/>
+		</td>
+  </tr>
+  </table>
+  </form>
+
+  <form name="frm" method="post" action="reg.php">
+<table width="300" border="0" align="center" cellpadding="10">
+<caption><h2>会员注册</h2></caption>
+	<tr>
+		<td>帐号：</td>
+		<td><input type="text" name="username" size="20" maxlength="30"/></td>
+	</tr>
+	<tr>
+		<td>密码：</td>
+		<td><input type="password" name="mypwd" size="20" maxlength="30"/></td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+		<input type="submit" name="submit" value="提交" />
+		<input type="reset" name="rest" value="重填" />
+		</td>
+	</tr>
+</table>
+  </form>
+
+ </body>
+</html>

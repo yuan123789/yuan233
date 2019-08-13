@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <h1 align="center">工作证</h1>
+	<table border="2"rules="all"width="300">
+	<tr height="50"><th width="100" >姓名</th><td width="100" ></td><td rowspan="3"><img src="E:\BaiduYunDownload\day03\作业\表格\st.jpg"vspace="10"hspace="10"></td></tr>
+	<tr height="50"><th >部门</th><td ></td></tr>
+	<tr height="50"><th >职务</th><td ></td></tr>
+	<tr height="50"><th >时间</th><td colspan="2"></td></tr>
+	
+ </body>
+</html>
